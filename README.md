@@ -11,7 +11,7 @@ Me gusta combinar backend sólido, bases de datos bien diseñadas, frontend limp
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=robertprincipe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
