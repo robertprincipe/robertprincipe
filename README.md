@@ -5,6 +5,12 @@ Desarrollador Full Stack | Go · PostgreSQL · React · TypeScript · IA aplicad
 </h3>
 
 <p align="center">
+  <a href="https://make-community-a8wa4rq4i-robert-principes-projects.vercel.app/about-me" target="_blank">
+    🌐 Portafolio
+  </a>
+</p>
+
+<p align="center">
 Construyo productos SaaS, APIs, microservicios, interfaces modernas y soluciones con IA aplicada.
 Me gusta combinar backend sólido, bases de datos bien diseñadas, frontend limpio y herramientas de inteligencia artificial para crear software útil, escalable y mantenible.
 </p>
